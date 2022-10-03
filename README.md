@@ -26,3 +26,12 @@
 
 3. Ordenação de strings
 
+Considere um arquivo com strings curtas, uma por linha. Gere um novo arquivo com as strings em ordem alfabética.
+
+```
+Genoveva
+Venceslau
+Aristides
+Ludovico
+Adamastor
+```
